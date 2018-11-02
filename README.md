@@ -8,4 +8,4 @@ The purpose of the demonstration will be to:
 1. Demonstrate a day in the life of a developer.
 1. Leverage Azure Pipelines, and cloud computing to quickly deploy an application. 
 
-Pipelines for this app are located here.
+Pipelines for this app are located here: https://fosterswork.visualstudio.com/Operation%20Preparation
